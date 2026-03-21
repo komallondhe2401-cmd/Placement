@@ -3,6 +3,7 @@
 This project predicts whether a student will be placed or not based on two features:
 - CGPA
 - IQ
+
 A Machine Learning model is built using Logistic Regression to classify students into **Placed** or **Not Placed** categories.
 
 ## 🚀 Technologies Used
